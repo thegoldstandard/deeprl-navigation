@@ -21,7 +21,7 @@ The agent can choose from four discrete actions:
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-The task is episodic, and is consired solved when an average score of +13 is achieved over 100 consecutive episodes.
+The task is episodic, and is considered solved when an average score of +13 is achieved over 100 consecutive episodes.
 
 ### Getting Started
 
